@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ITS\\SMST 6\\TB\\Codelab\\4.1\\MemoryOverload\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "D:\\ITS\\SMST 6\\TB\\Codelab\\lesson-4\\MemoryOverload\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ryanf\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\e5564361c379287176950a3c4fe163c8\\res\\values-pt-rBR\\values-pt-rBR.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ITS\\SMST 6\\TB\\Codelab\\4.1\\MemoryOverload\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "D:\\ITS\\SMST 6\\TB\\Codelab\\lesson-4\\MemoryOverload\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ryanf\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\58471439e8a2315299cd908901af1a50\\res\\values-v16\\values-v16.xml",

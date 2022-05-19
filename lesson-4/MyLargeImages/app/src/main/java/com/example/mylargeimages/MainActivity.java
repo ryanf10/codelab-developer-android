@@ -17,11 +17,11 @@ public class MainActivity extends AppCompatActivity {
             view.setBackgroundResource(R.drawable.dinosaur_large);
             toggle = 1;
         } else {
-            try {
-                Thread.sleep(32); // two refreshes
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+//            try {
+//                Thread.sleep(32); // two refreshes
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
             view.setBackgroundResource(R.drawable.ankylo);
             toggle = 0;
         }

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ITS\\SMST 6\\TB\\Codelab\\4.1\\MemoryOverload\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\ITS\\SMST 6\\TB\\Codelab\\lesson-4\\MemoryOverload\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ryanf\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0.aar\\c0ebfb77f3d746be6a49a66f4989cc4a\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
