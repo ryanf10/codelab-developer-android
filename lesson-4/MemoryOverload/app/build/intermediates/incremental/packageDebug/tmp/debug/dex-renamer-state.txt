@@ -1,0 +1,4 @@
+#Fri May 13 20:46:05 ICT 2022
+base.0=D\:\\ITS\\SMST 6\\TB\\Codelab\\4.1\\MemoryOverload\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

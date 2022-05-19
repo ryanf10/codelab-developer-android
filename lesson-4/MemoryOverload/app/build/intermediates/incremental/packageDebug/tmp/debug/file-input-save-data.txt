@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 13 20:46:06 ICT 2022
+0.base=D\:\\ITS\\SMST 6\\TB\\Codelab\\4.1\\MemoryOverload\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
